@@ -1,4 +1,4 @@
-# 03 - PowerShell Obfuscation (Windows Defense Evasion)
+# 03 - PowerShell Obfuscation
 
 ## Overview
 
@@ -27,7 +27,7 @@ Defenders often rely on:
 
 ---
 
-## Common PowerShell Obfuscation Techniques (Conceptual + Safe Awareness Examples)
+## Common PowerShell Obfuscation Techniques
 
 ### 1. String Concatenation
 
@@ -144,7 +144,7 @@ Used for:
 
 ---
 
-### 7. Script Structure Modification (General Concept)
+### 7. Script Structure Modification
 
 **Legitimate use case:**
 
