@@ -1,5 +1,7 @@
 # Windows Defense Evasion Playbook
 
+![](docs/Banner-Image.png)
+
 ## Overview
 
 This repository documents common Windows defense evasion techniques used to avoid detection, hinder analysis, bypass security controls, and maintain operational security during adversary emulation exercises and real-world intrusions.
