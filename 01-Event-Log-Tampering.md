@@ -20,7 +20,7 @@ Event logs are managed by the **Windows Event Log Service (eventlog)** and store
 
 ---
 
-## Common Event Log Tampering Techniques (Conceptual)
+## Common Event Log Tampering Techniques
 
 ### 1. Clearing Event Logs
 
@@ -51,7 +51,7 @@ sc config eventlog start= disabled
 
 ---
 
-### 3. Log File Deletion (Offline Tampering)
+### 3. Log File Deletion
 
 Direct deletion of `.evtx` files (requires elevated privileges).
 
