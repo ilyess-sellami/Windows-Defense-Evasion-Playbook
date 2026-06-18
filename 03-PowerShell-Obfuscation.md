@@ -1,4 +1,4 @@
-# 04 - PowerShell Obfuscation (Windows Defense Evasion)
+# 03 - PowerShell Obfuscation (Windows Defense Evasion)
 
 ## Overview
 
