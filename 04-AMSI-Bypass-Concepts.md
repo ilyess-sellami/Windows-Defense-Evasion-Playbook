@@ -1,4 +1,4 @@
-# 05 - AMSI Bypass Concepts
+# 04 - AMSI Bypass Concepts
 
 ## Overview
 
