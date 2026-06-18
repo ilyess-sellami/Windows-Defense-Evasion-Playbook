@@ -1,4 +1,4 @@
-# 02 - Windows Defender Evasion (Windows Defense Evasion)
+# 02 - Windows Defender Evasion
 
 ## Overview
 
