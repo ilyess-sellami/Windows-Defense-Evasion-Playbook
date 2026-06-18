@@ -1,4 +1,4 @@
-# 01 - Event Log Tampering (Windows Defense Evasion)
+# 01 - Event Log Tampering
 
 ## Overview
 
